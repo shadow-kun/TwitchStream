@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="module" version="3.1.0" client="site" method="upgrade">
     <name>Twitch Stream</name>
-    <author>Daniel Johnson</author>
-    <version>1.0.0</version>
+    <author>ZoR Systems</author>
+    <version>1.0.1</version>
     <description>A module to stream a twitch channel</description>
     <files>
         <filename>mod_twitchstream.xml</filename>
