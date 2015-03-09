@@ -3,6 +3,11 @@
     <name>Content - Twitch Stream</name>
     <author>ZoR Systems</author>
     <version>1.0.0</version>
+	<creationDate>February 2015</creationDate>
+	<copyright>GNU/GPLv2</copyright>
+	<license>http://www.gnu.org/copyleft/gpl.html GNU/GPL</license>
+	<authorEmail>info@zor.systems</authorEmail>
+	<authorUrl>zor.systems</authorUrl>
     <description>A plugin to stream a twitch channel</description>
     <files>
         <filename>twitchstream.xml</filename>
